@@ -1,0 +1,101 @@
+customer_id,first_name,last_name,gender,age,city,country,signup_date,employment_status,annual_income,credit_score,risk_level
+1,First1,Last1,Male,35,Riyadh,Saudi Arabia,2023-09-08,Employed,48289,552,High
+2,First2,Last2,Male,55,Doha,Qatar,2024-03-08,Employed,33905,547,Low
+3,First3,Last3,Male,53,Jeddah,Saudi Arabia,2023-07-23,Self-employed,115181,779,Medium
+4,First4,Last4,Female,55,Jeddah,Saudi Arabia,2023-10-12,Employed,129458,581,High
+5,First5,Last5,Female,35,Abu Dhabi,UAE,2023-06-09,Employed,130072,672,Low
+6,First6,Last6,Female,24,Riyadh,Saudi Arabia,2024-01-03,Student,109131,635,Low
+7,First7,Last7,Male,42,Abu Dhabi,UAE,2023-03-22,Self-employed,68427,821,High
+8,First8,Last8,Male,22,Dubai,UAE,2023-02-16,Self-employed,59871,648,Low
+9,First9,Last9,Male,42,Jeddah,Saudi Arabia,2023-10-12,Student,113320,686,Low
+10,First10,Last10,Female,31,Dubai,UAE,2024-11-17,Student,121988,849,High
+11,First11,Last11,Male,52,Riyadh,Saudi Arabia,2025-01-16,Employed,51417,736,Medium
+12,First12,Last12,Male,38,Dubai,UAE,2025-05-13,Employed,60021,516,Medium
+13,First13,Last13,Female,22,Abu Dhabi,UAE,2023-08-05,Self-employed,144867,661,Low
+14,First14,Last14,Female,59,Abu Dhabi,UAE,2024-04-14,Employed,64718,571,Low
+15,First15,Last15,Female,55,Doha,Qatar,2024-03-14,Self-employed,82350,685,Low
+16,First16,Last16,Female,23,Jeddah,Saudi Arabia,2025-02-12,Employed,142866,556,Low
+17,First17,Last17,Female,56,Jeddah,Saudi Arabia,2023-03-07,Student,80019,805,Medium
+18,First18,Last18,Female,53,Doha,Qatar,2025-05-31,Employed,119166,558,High
+19,First19,Last19,Female,59,Doha,Qatar,2023-12-15,Employed,68469,722,Low
+20,First20,Last20,Male,34,Abu Dhabi,UAE,2024-05-27,Employed,96542,554,High
+21,First21,Last21,Male,27,Dubai,UAE,2024-01-18,Employed,100697,771,Low
+22,First22,Last22,Female,49,Doha,Qatar,2023-01-20,Employed,77576,657,Low
+23,First23,Last23,Male,54,Riyadh,Saudi Arabia,2023-03-22,Employed,125932,748,Low
+24,First24,Last24,Male,26,Doha,Qatar,2024-11-06,Student,102063,584,Medium
+25,First25,Last25,Female,31,Doha,Qatar,2024-07-06,Self-employed,120422,602,High
+26,First26,Last26,Female,60,Dubai,UAE,2024-10-27,Student,87422,764,Medium
+27,First27,Last27,Male,32,Riyadh,Saudi Arabia,2023-03-07,Student,32757,801,High
+28,First28,Last28,Male,18,Jeddah,Saudi Arabia,2023-03-14,Self-employed,112719,530,Low
+29,First29,Last29,Male,39,Riyadh,Saudi Arabia,2023-03-14,Self-employed,61195,642,High
+30,First30,Last30,Male,52,Abu Dhabi,UAE,2023-05-16,Self-employed,145655,792,High
+31,First31,Last31,Male,48,Abu Dhabi,UAE,2025-04-06,Student,54957,548,Low
+32,First32,Last32,Female,45,Abu Dhabi,UAE,2024-02-25,Student,143224,527,High
+33,First33,Last33,Male,43,Riyadh,Saudi Arabia,2025-01-15,Student,134935,555,Low
+34,First34,Last34,Male,52,Jeddah,Saudi Arabia,2024-04-04,Employed,85296,593,Medium
+35,First35,Last35,Male,22,Abu Dhabi,UAE,2024-03-29,Self-employed,42833,525,High
+36,First36,Last36,Male,23,Doha,Qatar,2025-02-10,Employed,51798,708,Medium
+37,First37,Last37,Male,43,Abu Dhabi,UAE,2023-03-02,Employed,79672,501,Medium
+38,First38,Last38,Female,36,Dubai,UAE,2024-03-09,Self-employed,125748,784,High
+39,First39,Last39,Male,30,Abu Dhabi,UAE,2023-10-31,Employed,37665,796,High
+40,First40,Last40,Male,38,Doha,Qatar,2023-02-28,Employed,106569,744,High
+41,First41,Last41,Male,21,Doha,Qatar,2024-06-04,Employed,141587,595,Low
+42,First42,Last42,Male,33,Doha,Qatar,2024-02-18,Employed,146691,791,Low
+43,First43,Last43,Male,57,Doha,Qatar,2023-03-25,Student,116163,798,High
+44,First44,Last44,Female,34,Doha,Qatar,2023-07-29,Self-employed,123872,660,Low
+45,First45,Last45,Female,26,Dubai,UAE,2024-11-18,Self-employed,69321,734,Medium
+46,First46,Last46,Male,47,Riyadh,Saudi Arabia,2024-09-28,Self-employed,43104,537,High
+47,First47,Last47,Female,26,Jeddah,Saudi Arabia,2023-12-24,Employed,145247,625,Medium
+48,First48,Last48,Male,46,Dubai,UAE,2025-05-03,Self-employed,122214,654,High
+49,First49,Last49,Male,60,Doha,Qatar,2025-04-16,Self-employed,69240,839,Low
+50,First50,Last50,Female,25,Jeddah,Saudi Arabia,2023-04-20,Self-employed,102512,579,Medium
+51,First51,Last51,Male,39,Dubai,UAE,2023-07-28,Self-employed,113130,635,High
+52,First52,Last52,Female,21,Abu Dhabi,UAE,2023-04-05,Self-employed,85518,641,Low
+53,First53,Last53,Female,26,Riyadh,Saudi Arabia,2024-10-14,Student,51178,726,High
+54,First54,Last54,Male,25,Abu Dhabi,UAE,2023-03-19,Self-employed,148479,576,High
+55,First55,Last55,Female,55,Riyadh,Saudi Arabia,2024-07-19,Employed,86333,565,Low
+56,First56,Last56,Female,20,Dubai,UAE,2024-01-02,Employed,119399,627,High
+57,First57,Last57,Female,53,Riyadh,Saudi Arabia,2025-06-14,Student,111351,579,Low
+58,First58,Last58,Male,44,Jeddah,Saudi Arabia,2023-01-26,Employed,126542,670,Medium
+59,First59,Last59,Female,28,Jeddah,Saudi Arabia,2025-03-17,Self-employed,44168,695,Low
+60,First60,Last60,Male,30,Abu Dhabi,UAE,2025-04-16,Student,75830,656,Low
+61,First61,Last61,Male,60,Jeddah,Saudi Arabia,2023-07-17,Student,73025,642,Low
+62,First62,Last62,Female,59,Dubai,UAE,2024-06-05,Student,119065,774,Medium
+63,First63,Last63,Male,34,Riyadh,Saudi Arabia,2023-07-02,Self-employed,64795,519,Low
+64,First64,Last64,Female,40,Doha,Qatar,2025-01-16,Student,87199,810,High
+65,First65,Last65,Female,54,Riyadh,Saudi Arabia,2023-07-14,Student,35817,723,Low
+66,First66,Last66,Male,41,Doha,Qatar,2024-03-17,Employed,117062,669,High
+67,First67,Last67,Male,37,Dubai,UAE,2024-06-03,Student,117410,709,Medium
+68,First68,Last68,Female,53,Abu Dhabi,UAE,2023-05-11,Employed,85108,840,Medium
+69,First69,Last69,Female,43,Jeddah,Saudi Arabia,2024-07-15,Employed,69829,646,Low
+70,First70,Last70,Female,47,Abu Dhabi,UAE,2024-03-28,Student,118555,609,High
+71,First71,Last71,Male,60,Abu Dhabi,UAE,2023-03-28,Student,97561,839,High
+72,First72,Last72,Female,23,Doha,Qatar,2025-04-18,Employed,118184,658,Low
+73,First73,Last73,Male,19,Jeddah,Saudi Arabia,2023-02-17,Employed,92277,812,Low
+74,First74,Last74,Female,58,Abu Dhabi,UAE,2024-08-12,Employed,124155,696,Medium
+75,First75,Last75,Male,27,Abu Dhabi,UAE,2024-11-02,Self-employed,30726,554,Medium
+76,First76,Last76,Male,51,Jeddah,Saudi Arabia,2024-04-20,Employed,103060,627,Low
+77,First77,Last77,Male,47,Abu Dhabi,UAE,2024-11-14,Self-employed,103259,804,Medium
+78,First78,Last78,Female,53,Abu Dhabi,UAE,2024-04-01,Employed,127472,743,Medium
+79,First79,Last79,Male,58,Dubai,UAE,2023-10-11,Self-employed,93517,820,Low
+80,First80,Last80,Female,22,Dubai,UAE,2024-12-31,Student,60735,639,Medium
+81,First81,Last81,Male,26,Dubai,UAE,2023-06-04,Employed,80205,578,High
+82,First82,Last82,Male,44,Jeddah,Saudi Arabia,2024-02-22,Student,101121,738,Medium
+83,First83,Last83,Male,44,Riyadh,Saudi Arabia,2024-02-03,Self-employed,121163,510,High
+84,First84,Last84,Female,18,Abu Dhabi,UAE,2023-12-27,Student,128759,699,Medium
+85,First85,Last85,Male,49,Doha,Qatar,2023-08-13,Student,87125,748,Low
+86,First86,Last86,Female,60,Abu Dhabi,UAE,2024-11-26,Student,124919,584,Medium
+87,First87,Last87,Male,43,Jeddah,Saudi Arabia,2024-08-29,Self-employed,116900,513,Low
+88,First88,Last88,Male,47,Abu Dhabi,UAE,2023-07-06,Employed,64099,694,Medium
+89,First89,Last89,Female,38,Jeddah,Saudi Arabia,2023-12-12,Student,66471,715,Medium
+90,First90,Last90,Female,19,Riyadh,Saudi Arabia,2025-02-06,Self-employed,36826,679,Low
+91,First91,Last91,Male,19,Riyadh,Saudi Arabia,2023-09-11,Employed,139999,510,High
+92,First92,Last92,Male,26,Jeddah,Saudi Arabia,2024-04-29,Self-employed,44993,788,Low
+93,First93,Last93,Female,41,Abu Dhabi,UAE,2023-06-21,Self-employed,109593,558,Low
+94,First94,Last94,Male,55,Dubai,UAE,2023-01-27,Student,105470,846,Medium
+95,First95,Last95,Male,22,Abu Dhabi,UAE,2024-08-29,Self-employed,138864,821,Low
+96,First96,Last96,Female,56,Riyadh,Saudi Arabia,2025-04-04,Employed,134363,789,Low
+97,First97,Last97,Female,60,Dubai,UAE,2024-01-15,Employed,96317,831,Medium
+98,First98,Last98,Female,49,Riyadh,Saudi Arabia,2023-04-19,Student,77472,825,Medium
+99,First99,Last99,Female,29,Jeddah,Saudi Arabia,2025-01-21,Self-employed,115256,638,High
+100,First100,Last100,Female,47,Doha,Qatar,2024-03-22,Self-employed,107656,637,Medium
