@@ -6,16 +6,16 @@ Customers can purchase products from partner merchants and pay in monthly instal
 
 FinPay earns revenue through:
 
-Merchant commissions
-Premium subscriptions
-Wallet services
-Late payment fees
+- Merchant commissions
+- Premium subscriptions
+- Wallet services
+- Late payment fees
 
 Recently, the company has noticed several challenges:
 
-Rising fraud cases
-Increasing late repayments
-Uneven merchant performance
-Higher customer acquisition costs
+- Rising fraud cases
+- Increasing late repayments
+- Uneven merchant performance
+- Higher customer acquisition costs
 
 As a Junior Data Analyst, your role is to analyze the company's data and provide actionable insights to help different business teams make informed decisions.
