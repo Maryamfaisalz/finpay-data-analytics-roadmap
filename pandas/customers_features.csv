@@ -1,0 +1,98 @@
+customer_id,first_name,last_name,gender,age,city,country,signup_date,employment_status,annual_income,credit_score,risk_level,signup_year,signup_month,signup_day,signup_weekday,signup_quarter,customer_tenure_days,monthly_income,high_value_customer,annual_income_k,risk_score,age_group,income_band,credit_score_category,risk_segment
+C001,Sara,Khan,Female,35,Jeddah,Saudi Arabia,2024-03-12,Student,66868.0,846.0,High,2024,March,12,Tuesday,1,854,5572.333333333333,No,66.9,3,Adult,Medium,Excellent,High Risk
+C002,Maryam,Iqbal,Female,22,Riyadh,Saudi Arabia,2024-02-17,Salaried,100990.0,758.0,High,2024,February,17,Saturday,1,878,8415.833333333334,Yes,101.0,3,Young Adult,High,Excellent,High Risk
+C003,Ali,Qureshi,Male,54,Khobar,Saudi Arabia,2024-04-22,Self-Employed,112926.0,503.0,Low,2024,April,22,Monday,2,813,9410.5,No,112.9,1,Middle Aged,High,Poor,Safe
+C004,Ahmed,Malik,Female,29,Jeddah,Saudi Arabia,2025-05-05,Self-Employed,66793.0,547.0,Medium,2025,May,5,Monday,2,435,5566.083333333333,No,66.8,2,Adult,Medium,Poor,Monitor
+C005,Sara,Malik,Female,58,Dammam,Saudi Arabia,2025-02-17,Salaried,102066.5,774.0,Low,2025,February,17,Monday,1,512,8505.541666666666,Yes,102.1,1,Middle Aged,High,Excellent,Safe
+C006,Ahmed,Iqbal,Female,60,Mecca,Saudi Arabia,2025-03-29,Self-Employed,90407.0,535.0,Low,2025,March,29,Saturday,1,472,7533.916666666667,No,90.4,1,Senior,Medium,Poor,Safe
+C007,Aisha,Shaikh,Male,34,Riyadh,Saudi Arabia,2024-07-13,Self-Employed,158858.0,825.0,Medium,2024,July,13,Saturday,3,731,13238.166666666666,Yes,158.9,2,Adult,High,Excellent,Monitor
+C008,Omar,Malik,Female,33,Dammam,Saudi Arabia,2024-12-25,Student,58717.0,811.0,High,2024,December,25,Wednesday,4,566,4893.083333333333,No,58.7,3,Adult,Medium,Excellent,High Risk
+C009,Omar,Qureshi,Male,30,Khobar,Saudi Arabia,2024-07-13,Self-Employed,97570.0,850.0,Medium,2024,July,13,Saturday,3,731,8130.833333333333,No,97.6,2,Adult,Medium,Excellent,Monitor
+C010,Ali,Ansari,Male,40,Khobar,Saudi Arabia,2024-05-17,Salaried,95307.0,790.0,High,2024,May,17,Friday,2,788,7942.25,No,95.3,3,Middle Aged,Medium,Excellent,High Risk
+C011,Fatima,Ansari,Female,45,Khobar,Saudi Arabia,2024-03-14,Self-Employed,76603.0,686.0,High,2024,March,14,Thursday,1,852,6383.583333333333,No,76.6,3,Middle Aged,Medium,Good,High Risk
+C012,Maryam,Qureshi,Female,57,Khobar,Saudi Arabia,2025-04-04,Student,144700.0,685.0,Low,2025,April,4,Friday,2,466,12058.333333333334,No,144.7,1,Middle Aged,High,Good,Safe
+C013,Omar,Qureshi,Female,25,Riyadh,Saudi Arabia,2025-03-16,Salaried,80066.0,821.0,Low,2025,March,16,Sunday,1,485,6672.166666666667,No,80.1,1,Adult,Medium,Excellent,Safe
+C014,Ahmed,Syed,Male,44,Khobar,Saudi Arabia,2024-11-01,Self-Employed,178704.0,628.0,High,2024,November,1,Friday,4,620,14892.0,No,178.7,3,Middle Aged,High,Fair,High Risk
+C015,Ali,Iqbal,Female,41,Riyadh,Saudi Arabia,2024-05-30,Self-Employed,81460.0,732.0,Low,2024,May,30,Thursday,2,775,6788.333333333333,No,81.5,1,Middle Aged,Medium,Good,Safe
+C016,Noor,Qureshi,Male,52,Riyadh,Saudi Arabia,2025-03-21,Unknown,118235.0,827.0,High,2025,March,21,Friday,1,480,9852.916666666666,Yes,118.2,3,Middle Aged,High,Excellent,High Risk
+C017,Zaid,Ansari,Male,43,Jeddah,Saudi Arabia,2024-10-03,Student,40149.0,806.0,Medium,2024,October,3,Thursday,4,649,3345.75,No,40.1,2,Middle Aged,Low,Excellent,Monitor
+C018,Lina,Khan,Male,43,Dammam,Saudi Arabia,2024-05-02,Salaried,103143.0,790.0,Low,2024,May,2,Thursday,2,803,8595.25,Yes,103.1,1,Middle Aged,High,Excellent,Safe
+C019,Sara,Farooq,Male,54,Jeddah,Saudi Arabia,2024-03-06,Student,164592.0,781.0,Low,2024,March,6,Wednesday,1,860,13716.0,Yes,164.6,1,Middle Aged,High,Excellent,Safe
+C020,Noor,Qureshi,Female,33,Mecca,Saudi Arabia,2025-01-21,Student,92730.0,659.0,Medium,2025,January,21,Tuesday,1,539,7727.5,No,92.7,2,Adult,Medium,Good,Monitor
+C021,Fatima,Farooq,Male,27,Jeddah,Saudi Arabia,2024-04-25,Salaried,128627.0,510.0,High,2024,April,25,Thursday,2,810,10718.916666666666,No,128.6,3,Adult,High,Poor,High Risk
+C022,Maryam,Ansari,Male,20,Riyadh,Saudi Arabia,2024-12-28,Student,55433.0,617.0,Low,2024,December,28,Saturday,4,563,4619.416666666667,No,55.4,1,Young Adult,Medium,Fair,Safe
+C023,Ali,Malik,Female,52,Jeddah,Saudi Arabia,2024-05-22,Student,167248.0,609.0,High,2024,May,22,Wednesday,2,783,13937.333333333334,No,167.2,3,Middle Aged,High,Fair,High Risk
+C024,Omar,Syed,Female,-5,Khobar,Saudi Arabia,2025-02-17,Self-Employed,89914.0,548.0,Low,2025,February,17,Monday,1,512,7492.833333333333,No,89.9,1,Young Adult,Medium,Poor,Safe
+C025,Ahmed,Malik,Female,150,Khobar,Saudi Arabia,2025-03-18,Student,54200.0,844.0,High,2025,March,18,Tuesday,1,483,4516.666666666667,No,54.2,3,Senior,Medium,Excellent,High Risk
+C026,Sara,Khan,Female,41,Riyadh,Saudi Arabia,2024-05-07,Salaried,-45000.0,774.0,Medium,2024,May,7,Tuesday,2,798,-3750.0,No,-45.0,2,Middle Aged,Low,Excellent,Monitor
+C027,Omar,Hussain,Male,37,Khobar,Saudi Arabia,2024-05-07,Salaried,156164.0,950.0,Low,2024,May,7,Tuesday,2,798,13013.666666666666,Yes,156.2,1,Adult,High,Excellent,Safe
+C028,Ali,Qureshi,Male,25,Jeddah,Saudi Arabia,2024-03-26,Self-Employed,167307.0,150.0,Low,2024,March,26,Tuesday,1,840,13942.25,No,167.3,1,Adult,High,Poor,Safe
+C029,Ahmed,Khan,Male,44,Riyadh,Saudi Arabia,2024-07-18,Self-Employed,159277.0,646.0,Medium,2024,July,18,Thursday,3,726,13273.083333333334,No,159.3,2,Middle Aged,High,Fair,Monitor
+C030,Maryam,Farooq,Male,0,Dammam,Saudi Arabia,2024-04-21,Salaried,55979.0,660.0,Low,2024,April,21,Sunday,2,814,4664.916666666667,No,56.0,1,Young Adult,Medium,Good,Safe
+C031,Unknown,Syed,Female,52,Mecca,Saudi Arabia,2024-03-21,Salaried,173124.0,541.0,Low,2024,March,21,Thursday,1,845,14427.0,No,173.1,1,Middle Aged,High,Poor,Safe
+C035,Sara,Khan,Female,59,Riyadh,Saudi Arabia,2024-02-21,Salaried,95877.0,759.0,Medium,2024,February,21,Wednesday,1,874,7989.75,No,95.9,2,Middle Aged,Medium,Excellent,Monitor
+C036,Omar,Malik,Male,35,Riyadh,Saudi Arabia,2024-05-25,Salaried,154867.0,778.0,High,2024,May,25,Saturday,2,780,12905.583333333334,Yes,154.9,3,Adult,High,Excellent,High Risk
+C037,Noor,Syed,Male,55,Dammam,Saudi Arabia,2025-04-22,Unknown,67154.0,568.0,Medium,2025,April,22,Tuesday,2,448,5596.166666666667,No,67.2,2,Middle Aged,Medium,Fair,Monitor
+C038,Sara,Iqbal,Male,37,Dammam,Saudi Arabia,2024-11-05,Unknown,129884.0,604.0,High,2024,November,5,Tuesday,4,616,10823.666666666666,No,129.9,3,Adult,High,Fair,High Risk
+C039,Noor,Qureshi,Female,36,Riyadh,Saudi Arabia,2024-02-17,Student,102066.5,641.0,Low,2024,February,17,Saturday,1,878,8505.541666666666,No,102.1,1,Adult,High,Fair,Safe
+C040,Ali,Malik,Male,60,Dammam,Saudi Arabia,2024-03-23,Student,155824.0,782.0,High,2024,March,23,Saturday,1,843,12985.333333333334,Yes,155.8,3,Senior,High,Excellent,High Risk
+C041,Ahmed,Qureshi,Male,27,Riyadh,Saudi Arabia,2025-04-28,Student,79073.0,779.0,Low,2025,April,28,Monday,2,442,6589.416666666667,No,79.1,1,Adult,Medium,Excellent,Safe
+C042,Fatima,Syed,Male,47,Jeddah,Saudi Arabia,2024-01-22,Self-Employed,135591.0,520.0,Medium,2024,January,22,Monday,1,904,11299.25,No,135.6,2,Middle Aged,High,Poor,Monitor
+C043,Aisha,Ansari,Male,42,Mecca,Saudi Arabia,2025-03-28,Self-Employed,80515.0,621.0,Low,2025,March,28,Friday,1,473,6709.583333333333,No,80.5,1,Middle Aged,Medium,Fair,Safe
+C044,Omar,Hussain,Male,31,Dammam,Saudi Arabia,2025-02-04,Self-Employed,105055.0,636.0,Low,2025,February,4,Tuesday,1,525,8754.583333333334,No,105.1,1,Adult,High,Fair,Safe
+C045,Sara,Hussain,Male,50,Jeddah,Saudi Arabia,2024-04-12,Self-Employed,131660.0,656.0,Low,2024,April,12,Friday,2,823,10971.666666666666,No,131.7,1,Middle Aged,High,Good,Safe
+C046,Aisha,Khan,Male,45,Dammam,Saudi Arabia,2024-05-22,Salaried,113170.0,679.0,High,2024,May,22,Wednesday,2,783,9430.833333333334,No,113.2,3,Middle Aged,High,Good,High Risk
+C047,Maryam,Hussain,Female,21,Riyadh,Saudi Arabia,2025-03-25,Self-Employed,86810.0,797.0,Medium,2025,March,25,Tuesday,1,476,7234.166666666667,No,86.8,2,Young Adult,Medium,Excellent,Monitor
+C048,Ali,Iqbal,Female,42,Dammam,Saudi Arabia,2024-08-11,Student,174066.0,559.0,Medium,2024,August,11,Sunday,3,702,14505.5,No,174.1,2,Middle Aged,High,Fair,Monitor
+C049,Zaid,Ansari,Female,22,Khobar,Saudi Arabia,2024-01-01,Student,91651.0,686.0,Medium,2024,January,1,Monday,1,925,7637.583333333333,No,91.7,2,Young Adult,Medium,Good,Monitor
+C050,Sara,Malik,Female,27,Dammam,Saudi Arabia,2024-09-16,Self-Employed,147057.0,667.0,Medium,2024,September,16,Monday,3,666,12254.75,No,147.1,2,Adult,High,Good,Monitor
+C051,Noor,Qureshi,Male,32,Khobar,Saudi Arabia,2024-12-06,Self-Employed,85620.0,815.0,High,2024,December,6,Friday,4,585,7135.0,No,85.6,3,Adult,Medium,Excellent,High Risk
+C052,Noor,Hussain,Male,39,Dammam,Saudi Arabia,2024-04-17,Self-Employed,124475.0,738.0,Medium,2024,April,17,Wednesday,2,818,10372.916666666666,No,124.5,2,Adult,High,Good,Monitor
+C053,Lina,Ansari,Female,30,Riyadh,Saudi Arabia,2024-05-25,Student,127867.0,547.0,Low,2024,May,25,Saturday,2,780,10655.583333333334,No,127.9,1,Adult,High,Poor,Safe
+C054,Noor,Ansari,Male,29,Riyadh,Saudi Arabia,2024-01-24,Salaried,164554.0,812.0,Low,2024,January,24,Wednesday,1,902,13712.833333333334,Yes,164.6,1,Adult,High,Excellent,Safe
+C055,Lina,Hussain,Male,44,Khobar,Saudi Arabia,2024-07-23,Salaried,78684.0,835.0,High,2024,July,23,Tuesday,3,721,6557.0,No,78.7,3,Middle Aged,Medium,Excellent,High Risk
+C056,Ali,Iqbal,Female,34,Jeddah,Saudi Arabia,2025-02-15,Student,175779.0,737.0,Low,2025,February,15,Saturday,1,514,14648.25,No,175.8,1,Adult,High,Good,Safe
+C057,Maryam,Ansari,Male,49,Jeddah,Saudi Arabia,2025-02-14,Self-Employed,179233.0,786.0,High,2025,February,14,Friday,1,515,14936.083333333334,Yes,179.2,3,Middle Aged,High,Excellent,High Risk
+C058,Fatima,Farooq,Female,55,Khobar,Saudi Arabia,2025-04-04,Salaried,164433.0,730.0,Medium,2025,April,4,Friday,2,466,13702.75,No,164.4,2,Middle Aged,High,Good,Monitor
+C059,Aisha,Shaikh,Female,60,Jeddah,Saudi Arabia,2024-05-20,Self-Employed,60311.0,646.0,Low,2024,May,20,Monday,2,785,5025.916666666667,No,60.3,1,Senior,Medium,Fair,Safe
+C060,Noor,Malik,Female,54,Riyadh,Saudi Arabia,2024-03-11,Salaried,100623.0,696.0,High,2024,March,11,Monday,1,855,8385.25,No,100.6,3,Middle Aged,High,Good,High Risk
+C061,Omar,Ansari,Male,46,Khobar,Saudi Arabia,2024-06-18,Student,162139.0,712.0,Low,2024,June,18,Tuesday,2,756,13511.583333333334,No,162.1,1,Middle Aged,High,Good,Safe
+C062,Aisha,Hussain,Female,57,Riyadh,Saudi Arabia,2025-03-14,Student,139714.0,744.0,Low,2025,March,14,Friday,1,487,11642.833333333334,No,139.7,1,Middle Aged,High,Good,Safe
+C063,Fatima,Shaikh,Female,46,Mecca,Saudi Arabia,2025-01-17,Student,97812.0,749.0,Low,2025,January,17,Friday,1,543,8151.0,No,97.8,1,Middle Aged,Medium,Good,Safe
+C064,Noor,Hussain,Female,21,Khobar,Saudi Arabia,2024-06-21,Student,145989.0,584.0,Medium,2024,June,21,Friday,2,753,12165.75,No,146.0,2,Young Adult,High,Fair,Monitor
+C065,Omar,Syed,Male,45,Mecca,Saudi Arabia,2024-10-15,Student,47104.0,542.0,High,2024,October,15,Tuesday,4,637,3925.3333333333335,No,47.1,3,Middle Aged,Low,Poor,High Risk
+C066,Ahmed,Rahman,Female,31,Riyadh,Saudi Arabia,2024-05-13,Self-Employed,125813.0,608.0,Medium,2024,May,13,Monday,2,792,10484.416666666666,No,125.8,2,Adult,High,Fair,Monitor
+C067,Fatima,Malik,Female,37,Khobar,Saudi Arabia,2024-05-09,Salaried,163288.0,509.0,High,2024,May,9,Thursday,2,796,13607.333333333334,No,163.3,3,Adult,High,Poor,High Risk
+C068,Maryam,Khan,Female,34,Riyadh,Saudi Arabia,2025-02-03,Student,50553.0,515.0,Low,2025,February,3,Monday,1,526,4212.75,No,50.6,1,Adult,Medium,Poor,Safe
+C069,Aisha,Khan,Male,35,Jeddah,Saudi Arabia,2024-08-30,Student,69986.0,788.0,Low,2024,August,30,Friday,3,683,5832.166666666667,No,70.0,1,Adult,Medium,Excellent,Safe
+C070,Lina,Shaikh,Female,30,Mecca,Saudi Arabia,2024-11-06,Student,70024.0,583.0,Medium,2024,November,6,Wednesday,4,615,5835.333333333333,No,70.0,2,Adult,Medium,Fair,Monitor
+C071,Sara,Syed,Male,39,Mecca,Saudi Arabia,2024-12-12,Self-Employed,143980.0,601.0,Low,2024,December,12,Thursday,4,579,11998.333333333334,No,144.0,1,Adult,High,Fair,Safe
+C072,Zaid,Ansari,Male,39,Mecca,Saudi Arabia,2025-02-16,Salaried,50766.0,677.0,High,2025,February,16,Sunday,1,513,4230.5,No,50.8,3,Adult,Medium,Good,High Risk
+C073,Ahmed,Malik,Male,52,Dammam,Saudi Arabia,2024-01-07,Self-Employed,168503.0,554.0,Medium,2024,January,7,Sunday,1,919,14041.916666666666,No,168.5,2,Middle Aged,High,Fair,Monitor
+C074,Fatima,Farooq,Male,47,Jeddah,Saudi Arabia,2025-01-10,Student,110800.0,815.0,High,2025,January,10,Friday,1,550,9233.333333333334,Yes,110.8,3,Middle Aged,High,Excellent,High Risk
+C075,Lina,Farooq,Female,57,Dammam,Saudi Arabia,2024-06-14,Salaried,62718.0,642.0,Medium,2024,June,14,Friday,2,760,5226.5,No,62.7,2,Middle Aged,Medium,Fair,Monitor
+C076,Aisha,Farooq,Female,41,Riyadh,Saudi Arabia,2024-09-10,Self-Employed,87668.0,749.0,Low,2024,September,10,Tuesday,3,672,7305.666666666667,No,87.7,1,Middle Aged,Medium,Good,Safe
+C077,Fatima,Shaikh,Female,37,Mecca,Saudi Arabia,2024-12-25,Self-Employed,42661.0,764.0,Low,2024,December,25,Wednesday,4,566,3555.0833333333335,No,42.7,1,Adult,Low,Excellent,Safe
+C078,Sara,Ansari,Female,51,Mecca,Saudi Arabia,2025-01-23,Salaried,164804.0,830.0,High,2025,January,23,Thursday,1,537,13733.666666666666,Yes,164.8,3,Middle Aged,High,Excellent,High Risk
+C079,Lina,Farooq,Male,25,Dammam,Saudi Arabia,2024-04-23,Self-Employed,103780.0,656.0,High,2024,April,23,Tuesday,2,812,8648.333333333334,No,103.8,3,Adult,High,Good,High Risk
+C080,Zaid,Malik,Female,55,Mecca,Saudi Arabia,2024-06-25,Self-Employed,126714.0,680.0,High,2024,June,25,Tuesday,2,749,10559.5,No,126.7,3,Middle Aged,High,Good,High Risk
+C081,Lina,Shaikh,Female,36,Jeddah,Saudi Arabia,2024-03-02,Student,90484.0,661.0,Low,2024,March,2,Saturday,1,864,7540.333333333333,No,90.5,1,Adult,Medium,Good,Safe
+C082,Maryam,Rahman,Male,33,Khobar,Saudi Arabia,2024-05-21,Student,177530.0,805.0,Medium,2024,May,21,Tuesday,2,784,14794.166666666666,Yes,177.5,2,Adult,High,Excellent,Monitor
+C083,Sara,Ansari,Female,34,Dammam,Saudi Arabia,2024-04-01,Self-Employed,43708.0,773.0,Low,2024,April,1,Monday,2,834,3642.3333333333335,No,43.7,1,Adult,Low,Excellent,Safe
+C084,Noor,Khan,Male,55,Dammam,Saudi Arabia,2024-12-23,Salaried,168680.0,552.0,Low,2024,December,23,Monday,4,568,14056.666666666666,No,168.7,1,Middle Aged,High,Fair,Safe
+C085,Zaid,Shaikh,Female,50,Khobar,Saudi Arabia,2024-06-23,Salaried,53468.0,629.0,Medium,2024,June,23,Sunday,2,751,4455.666666666667,No,53.5,2,Middle Aged,Medium,Fair,Monitor
+C086,Sara,Iqbal,Female,51,Riyadh,Saudi Arabia,2024-10-22,Student,54053.0,577.0,Low,2024,October,22,Tuesday,4,630,4504.416666666667,No,54.1,1,Middle Aged,Medium,Fair,Safe
+C087,Zaid,Shaikh,Male,35,Riyadh,Saudi Arabia,2024-10-12,Self-Employed,99162.0,767.0,Medium,2024,October,12,Saturday,4,640,8263.5,No,99.2,2,Adult,Medium,Excellent,Monitor
+C088,Lina,Farooq,Female,57,Khobar,Saudi Arabia,2024-06-05,Student,55789.0,812.0,High,2024,June,5,Wednesday,2,769,4649.083333333333,No,55.8,3,Middle Aged,Medium,Excellent,High Risk
+C089,Sara,Ansari,Male,36,Riyadh,Saudi Arabia,2024-03-21,Salaried,85564.0,782.0,Low,2024,March,21,Thursday,1,845,7130.333333333333,No,85.6,1,Adult,Medium,Excellent,Safe
+C090,Omar,Khan,Female,48,Mecca,Saudi Arabia,2024-08-28,Self-Employed,48556.0,618.0,Medium,2024,August,28,Wednesday,3,685,4046.3333333333335,No,48.6,2,Middle Aged,Low,Fair,Monitor
+C091,Noor,Farooq,Male,34,Dammam,Saudi Arabia,2025-02-07,Student,91857.0,717.0,Low,2025,February,7,Friday,1,522,7654.75,No,91.9,1,Adult,Medium,Good,Safe
+C092,Maryam,Ansari,Male,37,Jeddah,Saudi Arabia,2024-02-06,Salaried,83495.0,657.0,High,2024,February,6,Tuesday,1,889,6957.916666666667,No,83.5,3,Adult,Medium,Good,High Risk
+C093,Zaid,Shaikh,Female,27,Khobar,Saudi Arabia,2024-12-18,Self-Employed,145515.0,639.0,High,2024,December,18,Wednesday,4,573,12126.25,No,145.5,3,Adult,High,Fair,High Risk
+C094,Maryam,Farooq,Female,25,Mecca,Saudi Arabia,2024-01-21,Self-Employed,124494.0,809.0,Medium,2024,January,21,Sunday,1,905,10374.5,Yes,124.5,2,Adult,High,Excellent,Monitor
+C095,Ali,Iqbal,Male,56,Mecca,Saudi Arabia,2025-05-01,Salaried,110650.0,795.0,Low,2025,May,1,Thursday,2,439,9220.833333333334,Yes,110.7,1,Middle Aged,High,Excellent,Safe
+C096,Omar,Farooq,Female,37,Jeddah,Saudi Arabia,2024-10-26,Self-Employed,168902.0,546.0,Medium,2024,October,26,Saturday,4,626,14075.166666666666,No,168.9,2,Adult,High,Poor,Monitor
+C097,Fatima,Hussain,Female,40,Riyadh,Saudi Arabia,2025-03-15,Salaried,126456.0,710.0,High,2025,March,15,Saturday,1,486,10538.0,No,126.5,3,Middle Aged,High,Good,High Risk
+C098,Lina,Shaikh,Female,55,Riyadh,Saudi Arabia,2024-08-20,Salaried,122448.0,629.0,Medium,2024,August,20,Tuesday,3,693,10204.0,No,122.4,2,Middle Aged,High,Fair,Monitor
+C099,Sara,Hussain,Male,54,Khobar,Saudi Arabia,2024-07-30,Salaried,89173.0,765.0,Medium,2024,July,30,Tuesday,3,714,7431.083333333333,No,89.2,2,Middle Aged,Medium,Excellent,Monitor
+C100,Zaid,Farooq,Female,23,Jeddah,Saudi Arabia,2024-05-16,Student,74344.0,647.0,Medium,2024,May,16,Thursday,2,789,6195.333333333333,No,74.3,2,Young Adult,Medium,Fair,Monitor
